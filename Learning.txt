@@ -1,0 +1,16 @@
+------------ Done ---------------------
+https://golang.org/doc/code.html
+
+Review up to Pointers vs. Values:
+  https://golang.org/doc/effective_go.html
+
+------------ Remaining ----------------
+https://golang.org/cmd/go/#hdr-Test_packages
+https://golang.org/pkg/testing/
+https://golang.org/doc/#articles
+
+
+------------ Big Picture --------------
+Learn Git, GitHub
+Learn Scrum
+Learn Go
