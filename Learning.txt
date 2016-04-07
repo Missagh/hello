@@ -1,8 +1,7 @@
 ------------ Done ---------------------
 https://golang.org/doc/code.html
 
-Review up to Pointers vs. Values:
-  https://golang.org/doc/effective_go.html
+https://golang.org/doc/effective_go.html : I read it, but it is never enought to read it!
 
 ------------ Remaining ----------------
 https://golang.org/cmd/go/#hdr-Test_packages
