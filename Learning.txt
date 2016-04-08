@@ -1,3 +1,12 @@
+Interactive: The Top Programming Languages 2015
+http://spectrum.ieee.org/static/interactive-the-top-programming-languages-2015
+
+Learning Go resources:
+https://groups.google.com/forum/#!topic/golang-nuts/Li2bthFbYYc
+
+Review Go on Udemy:
+https://www.udemy.com/the-go-programming-language-guide-code-like-a-pro/
+
 ------------ Done ---------------------
 https://golang.org/doc/code.html
 
@@ -7,6 +16,7 @@ https://golang.org/doc/effective_go.html : I read it, but it is never enought to
 https://golang.org/cmd/go/#hdr-Test_packages
 https://golang.org/pkg/testing/
 https://golang.org/doc/#articles
+
 
 
 ------------ Big Picture --------------
