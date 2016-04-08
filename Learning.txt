@@ -7,10 +7,20 @@ https://groups.google.com/forum/#!topic/golang-nuts/Li2bthFbYYc
 Review Go on Udemy:
 https://www.udemy.com/the-go-programming-language-guide-code-like-a-pro/
 
+
+Go tour:
+  https://tour.golang.org/welcome/1
+
+Go Specification:
+  https://golang.org/ref/spec
+
+
 ------------ Done ---------------------
 https://golang.org/doc/code.html
 
-https://golang.org/doc/effective_go.html : I read it, but it is never enought to read it!
+https://golang.org/doc/effective_go.html#mixed-caps : Continue from here!
+https://tour.golang.org/welcome/1
+https://golang.org/doc/#articles
 
 ------------ Remaining ----------------
 https://golang.org/cmd/go/#hdr-Test_packages
