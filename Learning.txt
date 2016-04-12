@@ -4,7 +4,7 @@ Learn Scrum
 Learn Go
 
 ----------- in progress ---------------
-https://golang.org/doc/effective_go.html#mixed-caps : Continue from here!
+https://golang.org/doc/effective_go.html#printing : Continue from here!
 
 ----------- to be done ----------------
 Interactive: The Top Programming Languages 2015
